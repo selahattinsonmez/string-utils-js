@@ -1,0 +1,26 @@
+{
+  "name": "@selahattinsonmez/string-utils-js",
+  "version": "1.0.0",
+  "description": "String Utils",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/selahattinsonmez/string-utils-js.git)"
+  },
+  "keywords": [
+    "String",
+    "Utils",
+    "JS"
+  ],
+  "author": "selahattinsonmez",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
